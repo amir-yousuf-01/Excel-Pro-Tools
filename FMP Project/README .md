@@ -1,4 +1,4 @@
-![image alt](https://github.com/amir-yousuf-01/Excel-Pro-Tools/blob/27778f1cedeedfccf01e04df18adb605f5cab117/1.png)
+![image alt](https://github.com/amir-yousuf-01/Excel-Pro-Tools/blob/0147bd80f281632e71b2ac3182cab38d4b9e7aef/FMP%20Project/1.png)
 
 Executive Summary: Sales Analysis Dashboard
 
