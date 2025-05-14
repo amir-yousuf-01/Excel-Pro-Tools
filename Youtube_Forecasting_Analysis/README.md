@@ -40,6 +40,10 @@ The YouTube Video Analysis project provided a comprehensive understanding of con
 
 
 Forecast Summary: YouTube Viewership Trends
+
+
+
+
 Overview
 The forecasting component of the YouTube Video Analysis project aimed to predict viewership trends from 2018 to 2023 using a linear regression model. The model was developed to provide insights into future audience growth and inform long-term content strategies.
 Methodology
